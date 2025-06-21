@@ -40,7 +40,24 @@
 ---
 
 ## 🛠 Getting Started
-1. **Clone this repo**:
+**Clone this repo**:
    ```bash
    git clone https://github.com/your-username/BidEcho.git
    cd BidEcho
+   ```
+
+---
+
+## 🔄 Future Improvements
+- 📹 Implement live video streaming of auctions
+- 🧠 AI-driven personalized recommendations
+- 🌍 Multi-language support
+- 🧵 Real-time clipping & social sharing
+- 🔐 Enhanced fraud prevention and dispute tools
+
+---
+
+## 📜 License
+This project is licensed under the **Apache License 2.0**.
+
+> Built with ❤️ for fair and exciting bidding — where skill, not wealth, wins the game!
